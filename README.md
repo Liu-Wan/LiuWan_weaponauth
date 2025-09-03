@@ -39,8 +39,8 @@
 -   `Config.AdminGroups`: 这个表用于配置您服务器的权限组等信息，正常无需修改即可使用。
 -   `Config.Messages`: 这个表用于配置插件的文本信息，您可以自由翻译修改。
 -   `Config.Kookbot`: 这个表用于控制内置的Kookbot日志系统，分别带有总开关及五个小功能开关。
---  *Token请自行前往Kookapi开放平台申请https://developer.kookapp.cn/app/index*
---  *Channelid请自行使用PC版KOOK开启开发者模式后右键子频道复制ID*
+    Token请自行前往Kookapi开放平台申请https://developer.kookapp.cn/app/index
+    Channelid请自行使用PC版KOOK开启开发者模式后右键子频道复制ID
 -   `Config.UI`: 用于控制快捷键，设置为false则关闭快捷键，反之则为开启。
 -   `Config.DatabaseTable`: 无需设置，如使用正常请勿碰这里！！！
 
